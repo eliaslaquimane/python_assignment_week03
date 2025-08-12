@@ -43,27 +43,13 @@ cd python_assignment_week03
 2. Run the Script
 Make sure you have Python installed (version 3.6 or higher).
 
-bash
-Copy
-Edit
-python discount_calculator.py
-Example
-Input:
-
-vbnet
-Copy
-Edit
 Price value to apply discount: 100
 How much discont do you want?: 25
 Output:
 
-Copy
-Edit
 75.0
-Code Overview
-python
-Copy
-Edit
+
+# Code Overview
 def calculate_discount(price: float, discount_percent: float):
     """Verify if the discount_percent >= 20, otherwise return original price"""
     if discount_percent >= 20:
