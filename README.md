@@ -20,8 +20,7 @@ cd python_assignment_week03
 ``` 
 2. Run the Script
 Make sure you have Python installed (version 3.6 or higher).
-```bash
-python discount_calculator.py
+
 Example
 Input:
 ```vbnet
