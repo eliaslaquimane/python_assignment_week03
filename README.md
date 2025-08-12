@@ -27,12 +27,14 @@ Input:
 Price value to apply discount: 100
 How much discont do you want?: 25
 Output:
+```
 ```plaintext
+
 75.0
 # Discount Calculator
 A simple Python script to calculate a final price after applying a discount, with a rule that the discount must be at least 20%.
 If the discount is less than 20%, the original price will be returned without any change.
-
+```
 Usage
 1. Clone or Download
 bash
